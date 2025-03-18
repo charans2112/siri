@@ -1,22 +1,31 @@
 [
-    { "sender": "Siri", "message": "Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:00:00" },
+    { "sender": "Siri", "message": "Name? 🔎", "profilePic": "siri.jpg", "date": "2024-02-20T08:00:00" },
     { "sender": "Charan Reddy", "message": "Sirisha 🧚🏻‍♀️", "profilePic": "charan.jpg", "date": "2024-02-20T08:01:00" },
-    { "sender": "Siri", "message": "Date Of Birth", "profilePic": "siri.jpg", "date": "2024-02-20T08:02:00" },
+    
+    { "sender": "Siri", "message": "Date of Birth? 🎂", "profilePic": "siri.jpg", "date": "2024-02-20T08:02:00" },
     { "sender": "Charan Reddy", "message": "23rd March 2004 👼🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:03:00" },
-    { "sender": "Siri", "message": "Day Of Birthday", "profilePic": "siri.jpg", "date": "2024-02-20T08:04:00" },
+    
+    { "sender": "Siri", "message": "Day of Birthday? 📅", "profilePic": "siri.jpg", "date": "2024-02-20T08:04:00" },
     { "sender": "Charan Reddy", "message": "Monday 🌞", "profilePic": "charan.jpg", "date": "2024-02-20T08:05:00" },
-    { "sender": "Siri", "message": "Weight", "profilePic": "siri.jpg", "date": "2024-02-20T08:06:00" },
+    
+    { "sender": "Siri", "message": "Birth Weight? ⚖️", "profilePic": "siri.jpg", "date": "2024-02-20T08:06:00" },
     { "sender": "Charan Reddy", "message": "3 Kg ⚖️", "profilePic": "charan.jpg", "date": "2024-02-20T08:07:00" },
-    { "sender": "Siri", "message": "Time of Birth", "profilePic": "siri.jpg", "date": "2024-02-20T08:08:00" },
+    
+    { "sender": "Siri", "message": "Time of Birth? ⏳", "profilePic": "siri.jpg", "date": "2024-02-20T08:08:00" },
     { "sender": "Charan Reddy", "message": "06:45 PM 🕐", "profilePic": "charan.jpg", "date": "2024-02-20T08:09:00" },
-    { "sender": "Siri", "message": "Zodiac Sign", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
-    { "sender": "Charan Reddy", "message": "Meena ♓ (Pisces)", "profilePic": "charan.jpg", "date": "2024-02-20T08:11:00" },
-    { "sender": "Siri", "message": "Birth Star", "profilePic": "siri.jpg", "date": "2024-02-20T08:12:00" },
-    { "sender": "Charan Reddy", "message": "Revati Nakshatra", "profilePic": "charan.jpg", "date": "2024-02-20T08:13:00" },
-    { "sender": "Siri", "message": "Father's Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:14:00" },
-    { "sender": "Charan Reddy", "message": "Narasimha", "profilePic": "charan.jpg", "date": "2024-02-20T08:15:00" },
-    { "sender": "Siri", "message": "Mother's Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:16:00" },
-    { "sender": "Charan Reddy", "message": "Chandrakala", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:00" },
-    { "sender": "Siri", "message": "Any message for me?", "profilePic": "siri.jpg", "date": "2024-02-20T08:18:00" },
-    { "sender": "Charan Reddy", "message": "sure", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:00" }
+    
+    { "sender": "Siri", "message": "Zodiac Sign? ♈", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
+    { "sender": "Charan Reddy", "message": "Meena (Pisces) ♓", "profilePic": "charan.jpg", "date": "2024-02-20T08:11:00" },
+    
+    { "sender": "Siri", "message": "Birth Star? 🌟", "profilePic": "siri.jpg", "date": "2024-02-20T08:12:00" },
+    { "sender": "Charan Reddy", "message": "Revati Nakshatra ✨", "profilePic": "charan.jpg", "date": "2024-02-20T08:13:00" },
+    
+    { "sender": "Siri", "message": "Father's Name? 👨🏻‍👧🏻", "profilePic": "siri.jpg", "date": "2024-02-20T08:14:00" },
+    { "sender": "Charan Reddy", "message": "Narasimha 👨🏻‍👧🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:15:00" },
+    
+    { "sender": "Siri", "message": "Mother's Name? 👩🏻‍👧🏻", "profilePic": "siri.jpg", "date": "2024-02-20T08:16:00" },
+    { "sender": "Charan Reddy", "message": "Chandrakala 👩🏻‍👧🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:00" },
+    
+    { "sender": "Siri", "message": "Any message for me? 💬", "profilePic": "siri.jpg", "date": "2024-02-20T08:18:00" },
+    { "sender": "Charan Reddy", "message": "Sure! 🤭", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:00" }
 ]
