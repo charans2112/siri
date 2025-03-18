@@ -1,63 +1,60 @@
 [
     { "sender": "Siri", "message": "Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:00:00" },
-    { "sender": "Charan Reddy", "message": "Sirisha 🧚🏻‍♀️", "profilePic": "charan.jpg", "date": "2024-02-20T08:02:00" },
-    { "sender": "Siri", "message": "Date Of Birth", "profilePic": "siri.jpg", "date": "2024-02-20T08:05:00" },
-    { "sender": "Charan Reddy", "message": "23rd March 2004 👼🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:07:00" },
-    { "sender": "Siri", "message": "Day Of Birthday", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
-    { "sender": "Charan Reddy", "message": "Monday 🌞", "profilePic": "charan.jpg", "date": "2024-02-20T08:12:00" },
-    { "sender": "Siri", "message": "Weight", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
-    { "sender": "Charan Reddy", "message": "3 Kg ⚖️", "profilePic": "charan.jpg", "date": "2024-02-20T08:12:00" },
-    { "sender": "Siri", "message": "Time of Birth", "profilePic": "siri.jpg", "date": "2024-02-20T08:15:00" },
-    { "sender": "Charan Reddy", "message": "06:45 Pm 🕐", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:00" },
-    { "sender": "Siri", "message": "Zodiac Sign", "profilePic": "siri.jpg", "date": "2024-02-20T08:20:00" },
-    { "sender": "Charan Reddy", "message": "Meena ♓ (Pisces)", "profilePic": "charan.jpg", "date": "2024-02-20T08:22:00" },
-    { "sender": "Siri", "message": "Birth Star", "profilePic": "siri.jpg", "date": "2024-02-20T08:25:00" },
-    { "sender": "Charan Reddy", "message": "Revati Nakshatra", "profilePic": "charan.jpg", "date": "2024-02-20T08:27:00" },
-    { "sender": "Siri", "message": "Father Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:30:00" },
-    { "sender": "Charan Reddy", "message": "Narasimha", "profilePic": "charan.jpg", "date": "2024-02-20T08:32:00" },
-    { "sender": "Siri", "message": "Mother Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:35:00" },
-    { "sender": "Charan Reddy", "message": "Chandrakala", "profilePic": "charan.jpg", "date": "2024-02-20T08:37:00" },
-    { "sender": "Siri", "message": "Any Message for me?", "profilePic": "siri.jpg", "date": "2024-02-20T08:40:00" },
+    { "sender": "Charan Reddy", "message": "Sirisha 🧚🏻‍♀️", "profilePic": "charan.jpg", "date": "2024-02-20T08:01:00" },
+    { "sender": "Siri", "message": "Date Of Birth", "profilePic": "siri.jpg", "date": "2024-02-20T08:02:00" },
+    { "sender": "Charan Reddy", "message": "23rd March 2004 👼🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:03:00" },
+    { "sender": "Siri", "message": "Day Of Birthday", "profilePic": "siri.jpg", "date": "2024-02-20T08:04:00" },
+    { "sender": "Charan Reddy", "message": "Monday 🌞", "profilePic": "charan.jpg", "date": "2024-02-20T08:05:00" },
+    { "sender": "Siri", "message": "Weight", "profilePic": "siri.jpg", "date": "2024-02-20T08:06:00" },
+    { "sender": "Charan Reddy", "message": "3 Kg ⚖️", "profilePic": "charan.jpg", "date": "2024-02-20T08:07:00" },
+    { "sender": "Siri", "message": "Time of Birth", "profilePic": "siri.jpg", "date": "2024-02-20T08:08:00" },
+    { "sender": "Charan Reddy", "message": "06:45 PM 🕐", "profilePic": "charan.jpg", "date": "2024-02-20T08:09:00" },
+    { "sender": "Siri", "message": "Zodiac Sign", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
+    { "sender": "Charan Reddy", "message": "Meena ♓ (Pisces)", "profilePic": "charan.jpg", "date": "2024-02-20T08:11:00" },
+    { "sender": "Siri", "message": "Birth Star", "profilePic": "siri.jpg", "date": "2024-02-20T08:12:00" },
+    { "sender": "Charan Reddy", "message": "Revati Nakshatra", "profilePic": "charan.jpg", "date": "2024-02-20T08:13:00" },
+    { "sender": "Siri", "message": "Father's Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:14:00" },
+    { "sender": "Charan Reddy", "message": "Narasimha", "profilePic": "charan.jpg", "date": "2024-02-20T08:15:00" },
+    { "sender": "Siri", "message": "Mother's Name", "profilePic": "siri.jpg", "date": "2024-02-20T08:16:00" },
+    { "sender": "Charan Reddy", "message": "Chandrakala", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:00" },
+    { "sender": "Siri", "message": "Any message for me?", "profilePic": "siri.jpg", "date": "2024-02-20T08:18:00" },
     { "sender": "Charan Reddy", "message": "🎉🎂🎈✨ H💖A💖P💖P💖Y B💖I💖R💖T💖H💖D💖A💖Y, SIRI! ✨🎈🎂🎉  
 
-🎊 From strangers ➡️ classmates ➡️ best friends ➡️ my permanent roast target 🔥😂 Who knew that one day, the person I never spoke to in 12th standard would become my official argument supporter (even when I’m wrong, which is rare 🤭) and my partner in crime for endless nonsense? 🤝😆  
+🎊 From strangers ➡️ classmates ➡️ best friends ➡️ my permanent roast target 🔥😂 Who would have thought that the person I barely spoke to in 12th grade would become my go-to partner for nonsense and the official supporter of my arguments (even the ones I’m clearly wrong about 🤭)?  
 
 💌 Siri, you are…
-🌸 The most amazing friend 🎀
-😜 The craziest partner-in-crime 🚔
-🫂 The most supportive secret-keeper 🤫 (sarcastically 😜)
+🌸 The most amazing friend 🎀  
+😜 The craziest partner-in-crime 🚔  
+🫂 The most *questionable* secret-keeper 🤫 (highly sarcastic 😜)  
 
-Can we just take a moment to appreciate the fact that it’s been 276 days, 10 hours, 6634 hours, 398,040 minutes, 23,882,400 seconds since our legendary first meet in college? Where the universe took its time, but when it finally brought us together, finally decided, “Okay, these two HAVE to be best friends now!” 🤝💕
+It’s been exactly **276 days, 10 hours, 6,634 hours, 398,040 minutes, 23,882,400 seconds** since our legendary first meeting in college. The universe took its sweet time, but when it finally threw us together, it was like, ‘Okay, these two HAVE to be best friends now!’ 🤝💥  
 
-From that moment on, BOOM 💥—we created countless memories, endless gossip sessions, unlimited laughter, and the best of times! 🤭😂💖 No matter how much time passes, our bond remains UNSHAKABLE 💪🔥!, now I can't get rid of you! 😆
+From that moment on, BOOM 💥—we built an unbreakable bond filled with:  
+💬 Unlimited nonsense convos (95% of which were us roasting each other)  
+📞 Endless calls & texts (mostly random but somehow important)  
+🎭 Dramatic moments (even though we weren’t the main characters 🤡)  
+😂 Countless roasts (mostly me roasting you, but all out of love 💀)  
+🫂 Unwavering support (even when I least deserve it, proving you’re the best!)  
+😂 Endless laughter over the dumbest things (usually at your expense 😜)  
 
-And ever since then: 
-💬 Unlimited nonsense conversations (95% of which were us roasting each other) 
-📞 So many calls & texts (mostly useless but somehow important)  
-🎭 So much drama (and we weren’t even the main characters 🤡)  
-😂 Countless roasts (mostly me roasting you, but it’s all love! 💀)  
-🫂 Endless support (even when I least deserve it, which is why you’re the best!)  
-😂 Endless laughter at random things (mostly at your expense 😜)
+💌 Things I *reluctantly* appreciate about you:  
+✨ You argue like it's a full-time job (and still lose 90% of the time 😏)  
+🔥 Your dramatic reactions deserve an Oscar 🏆  
+😂 You somehow tolerate my roasting (a rare skill, truly)  
+💖 No matter how much I annoy you, you always have my back (why? I still don’t know 😆)  
 
-💌 Things I actually appreciate about you (rare compliments, so cherish them! 🤣):  
-✨ You argue with me like it’s a full-time job (and still lose 90% of the time 😏)  
-🔥 You always manage to give the most dramatic reactions (Oscar-worthy, truly)  
-😂 You somehow tolerate my roasting (which is a skill not everyone has)  
-💖 No matter how much I annoy you, you always support me (why? I still don’t know 😆)  
+On your special day, I hope you:  
+🎁 Get lots of gifts (and share one with me because I tolerate you 🤭)  
+🍰 Eat enough cake to last a lifetime (or at least a week)  
+🤑 Receive so much money that you finally pay me back for all the snacks 😆  
+🔥 Keep being the chaotic, hilarious legend you are—because life would be boring without you!  
 
-On your special day, I hope you:
-🎁 Get lots of gifts (and give me one too, because I deserve it for tolerating you 🤭)
-🍰 Eat enough cake to last a lifetime (or at least a week)
-🤑 Receive enough money to finally pay me for the party
-🔥 Keep being your chaotic, hilarious self—because life would be so boring without you!
-
-Now, for your birthday wishes:  
-🎂 May your cake be bigger than your patience for me (which is not much 🤣)  
+🎂 May your cake be bigger than your patience for me (which isn’t much 🤣)  
 🎁 May you get tons of gifts (but remember, sharing is caring 😜)  
-💸 May you become so rich that you finally buy me snacks instead of the other way around 😂  
+💸 May you become so rich that you finally treat me for once 😂  
 🥳 May this year bring less stress, more sleep, and fewer reasons to deal with my nonsense (but not too few, I still need someone to roast 😆)  
 
-🎉 H💖A💖P💖P💖Y B💖I💖R💖T💖H💖D💖A💖Y, Siri! 🎉 Enjoy your day, laugh a lot, and remember: I’m still your best friend, so you’re stuck with me! 😎🔥 (Enjoy your day before I go back to roasting you tomorrow 😆)
+🎉 H💖A💖P💖P💖Y B💖I💖R💖T💖H💖D💖A💖Y, Siri! 🎉 Enjoy your day, laugh a lot, and remember: you’re stuck with me! 😎🔥 (Enjoy today because the roasting resumes tomorrow 😆)  
 
-🚀 Your No.1 Roasting Rival & Best Friend, Mr. Charan Reddy 😆🔥", "profilePic": "charan.jpg", "date": "2024-02-20T08:42:00" }
+🚀 Your No.1 Roasting Rival & Best Friend, Mr. Charan Reddy 😆🔥", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:00" }
 ]
