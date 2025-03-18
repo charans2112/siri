@@ -1,5 +1,5 @@
 [
-    { "sender": "Siri", "message": "Name? 🔎", "profilePic": "siri.jpg", "date": "2024-02-20T08:00:00" },
+    { "sender": "Siri", "message": "Name? 🤔", "profilePic": "siri.jpg", "date": "2024-02-20T08:00:00" },
     { "sender": "Charan Reddy", "message": "Sirisha 🧚🏻‍♀️", "profilePic": "charan.jpg", "date": "2024-02-20T08:01:00" },
     
     { "sender": "Siri", "message": "Date of Birth? 🎂", "profilePic": "siri.jpg", "date": "2024-02-20T08:02:00" },
@@ -11,7 +11,7 @@
     { "sender": "Siri", "message": "Birth Weight? ⚖️", "profilePic": "siri.jpg", "date": "2024-02-20T08:06:00" },
     { "sender": "Charan Reddy", "message": "3 Kg ⚖️", "profilePic": "charan.jpg", "date": "2024-02-20T08:07:00" },
     
-    { "sender": "Siri", "message": "Time of Birth? ⏳", "profilePic": "siri.jpg", "date": "2024-02-20T08:08:00" },
+    { "sender": "Siri", "message": "Time of Birth? ⏰", "profilePic": "siri.jpg", "date": "2024-02-20T08:08:00" },
     { "sender": "Charan Reddy", "message": "06:45 PM 🕐", "profilePic": "charan.jpg", "date": "2024-02-20T08:09:00" },
     
     { "sender": "Siri", "message": "Zodiac Sign? ♈", "profilePic": "siri.jpg", "date": "2024-02-20T08:10:00" },
@@ -26,6 +26,35 @@
     { "sender": "Siri", "message": "Mother's Name? 👩🏻‍👧🏻", "profilePic": "siri.jpg", "date": "2024-02-20T08:16:00" },
     { "sender": "Charan Reddy", "message": "Chandrakala 👩🏻‍👧🏻", "profilePic": "charan.jpg", "date": "2024-02-20T08:17:00" },
     
-    { "sender": "Siri", "message": "Any message for me? 💬", "profilePic": "siri.jpg", "date": "2024-02-20T08:18:00" },
-    { "sender": "Charan Reddy", "message": "Sure! 🤭", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:00" }
+    { "sender": "Siri", "message": "Any message for me? 💌", "profilePic": "siri.jpg", "date": "2024-02-20T08:18:00" },
+    { "sender": "Charan Reddy", "message": "Of course! 😏", "profilePic": "charan.jpg", "date": "2024-02-20T08:20:00" }
+
+    { 
+        "sender": "Charan Reddy", 
+        "message": "🌟 **HAPPY BIRTHDAY, SIRISHA!** 🌟🎂🎈🎊\n\n" 
+                   "Today isn’t just any day—it’s the day the universe decided to bless (or maybe curse 😆) the world with **YOU!** And honestly, I’m still trying to figure out if that was a genius move or a risky one. 🤔😂\n\n"
+                   "From the moment we became friends, life has been:\n"
+                   "🔥 **99% laughter** (mostly at your expense)\n"
+                   "🎭 **70% arguments** (which I always win 😎)\n"
+                   "😂 **50% nonsense talks** (pointless but somehow important)\n"
+                   "🫂 **100% irreplaceable memories**\n\n"
+                   "But let’s be real—you might be **annoying, dramatic, and an absolute menace at times**, but you’re also:\n"
+                   "💖 **Caring beyond words**\n"
+                   "🤣 **The funniest person in unexpected ways**\n"
+                   "🌸 **Sweet (when you're not busy roasting me)**\n"
+                   "🛡️ **My unofficial bodyguard 😂**\n"
+                   "💡 **The most unpredictable friend ever**\n\n"
+                   "💌 **If life had a ‘Best Friend Lottery,’ I definitely hit the jackpot with you!** (…Or maybe I got trapped 🤷🏻‍♂️😂)\n\n"
+                   "Since today is YOUR day, I won’t roast you **(much)** (Enjoy this rare kindness—it expires at midnight ⏳😂). Instead, here’s what I wish for you:\n"
+                   "🎉 **A year filled with happiness** (and fewer headaches from me)\n"
+                   "💰 **Enough money** to finally pay me for tolerating you 😜\n"
+                   "🍕 **Endless food** so you never have to fight over the last bite\n"
+                   "💖 **More love, laughter, and reasons to smile!**\n\n"
+                   "At the end of the day, you’re not just my best friend, **you’re family**—which means you’re stuck with me forever! 😎🔥\n\n"
+                   "🎊 **HAPPY BIRTHDAY, SIRI!** 🎊 Enjoy your day, eat all the cake, and remember—you’re special, you’re loved, and I’ll always have your back.\n\n"
+                   "🎁 **P.S.** My gift? My existence in your life. You’re welcome. 😂", 
+        "profilePic": "charan.jpg", 
+        "date": "2024-02-20T08:21:00" 
+    }
+]
 ]
